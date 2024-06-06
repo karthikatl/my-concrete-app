@@ -1,6 +1,11 @@
 # Getting Started with Create My concrete App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+clone the app 
+git clone https://github.com/karthikatl/my-concrete-app.git
+
+npm install
+npm start
+
 
 ## Available Scripts
 
