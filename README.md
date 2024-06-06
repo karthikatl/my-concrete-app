@@ -3,8 +3,10 @@
 clone the app 
 git clone https://github.com/karthikatl/my-concrete-app.git
 
-npm install
-npm start
+### npm install
+
+
+### npm start
 
 
 ## Available Scripts
